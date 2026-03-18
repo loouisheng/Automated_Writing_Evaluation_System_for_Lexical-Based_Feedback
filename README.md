@@ -1,9 +1,9 @@
 # Automated-Writing-Evaluation-System-for-Lexical-Based-Feedback
 An NLP-powered AWE system providing lexical-based (LD, LV, LS) corrective feedback for EFL learners.
-## 1. The Problem
+## The Problem
 Proficiency in English writing is crucial, but receiving high-quality feedback is challenging: Traditional Feedback: Methods like one-on-one meetings or written comments are often slow, subjective, and lack immediacy. Existing AWE Tools: Most Automated Writing Evaluation (AWE) systems (like Grammarly or e-rater) excel at finding grammar, spelling, and syntax errors. However, they largely ignore a key component of writing quality: lexical proficiency. This project addresses the gap by focusing specifically on the quality, variety, and sophistication of vocabulary.
 
-## 2. The Solution: ALICE
+## The Solution: ALICE
 
 ALICE is an AWE system that analyzes a user's writing and provides specific, actionable feedback on three core components of Lexical Complexity (LC):
 
@@ -15,7 +15,7 @@ ALICE is an AWE system that analyzes a user's writing and provides specific, act
 
 The system evaluates the text against CEFR (Common European Framework of Reference) levels (A1-C1) to provide personalized and level-appropriate feedback.
 
-## 3. Key Features
+## Key Features
 
 * **Lexical Complexity Analysis:** Provides distinct scores and feedback for Lexical Density, Variety, and Sophistication.
 
@@ -31,7 +31,7 @@ The system evaluates the text against CEFR (Common European Framework of Referen
 
 * **Simple Web Interface:** Built with Gradio for easy access and interaction.
 
-## 4. How It Works (Methodology)
+## How It Works (Methodology)
 
 The system is built on a 5-step NLP pipeline:
 
@@ -57,7 +57,7 @@ The system is built on a 5-step NLP pipeline:
 
 * **Feedback Generation:** The user's scores on these key features are compared to the CEFR benchmarks. The system then generates a detailed report with specific advice for improvement.
 
-## 5. Technology Stack
+## Technology Stack
 
 **Python**
 
