@@ -1,5 +1,3 @@
-# Automated-Writing-Evaluation-System-for-Lexical-Based-Feedback
-An NLP-powered AWE system providing lexical-based (LD, LV, LS) corrective feedback for EFL learners.
 ## The Problem
 Proficiency in English writing is crucial, but receiving high-quality feedback is challenging: Traditional Feedback: Methods like one-on-one meetings or written comments are often slow, subjective, and lack immediacy. Existing AWE Tools: Most Automated Writing Evaluation (AWE) systems (like Grammarly or e-rater) excel at finding grammar, spelling, and syntax errors. However, they largely ignore a key component of writing quality: lexical proficiency. This project addresses the gap by focusing specifically on the quality, variety, and sophistication of vocabulary.
 
