@@ -1,3 +1,9 @@
+## Demo
+
+![Adobe Express - Video Project (1)](https://github.com/user-attachments/assets/94e980e1-d75d-4d10-896e-91c5ca4fcaf1)
+
+**Analytics Dashboard:** The main interface provides detailed tabs for each lexical component.
+
 ## The Problem
 Proficiency in English writing is crucial, but receiving high-quality feedback is challenging: Traditional Feedback: Methods like one-on-one meetings or written comments are often slow, subjective, and lack immediacy. Existing AWE Tools: Most Automated Writing Evaluation (AWE) systems (like Grammarly or e-rater) excel at finding grammar, spelling, and syntax errors. However, they largely ignore a key component of writing quality: lexical proficiency. This project addresses the gap by focusing specifically on the quality, variety, and sophistication of vocabulary.
 
@@ -64,12 +70,6 @@ The system is built on a 5-step NLP pipeline:
   * scikit-learn: Used for the initial statistical analysis (ANOVA) to identify key features.
   
   * Gradio: To create and host the simple, interactive web interface.
-
-## 6. Demo
-
-![Adobe Express - Video Project (1)](https://github.com/user-attachments/assets/94e980e1-d75d-4d10-896e-91c5ca4fcaf1)
-
-**Analytics Dashboard:** The main interface provides detailed tabs for each lexical component.
 
 **Feedback for LD:** Provides a breakdown of content words vs. function words.
 
